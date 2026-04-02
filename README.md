@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Niraj Bathani
 
-<!--
-**bathani0909/bathani0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **SOC / Blue Team / Security Analyst** building hands-on cybersecurity projects focused on:
 
-Here are some ideas to get you started:
+- **SIEM monitoring**
+- **Detection engineering**
+- **Incident investigation**
+- **Windows and Linux telemetry analysis**
+- **SOC-style alert triage**
+- **MITRE ATT&CK-aligned detection workflows**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Security Projects
+
+### [Wazuh SOC Detection Lab](https://github.com/bathani0909/wazuh-soc-detection-lab)
+SOC Detection Engineering & Incident Investigation with Wazuh across Linux and Windows endpoints.
+
+### [QRadar Offense Analysis](https://github.com/bathani0909/qradar-offense-analysis)
+QRadar-based SIEM offense investigation project focused on brute-force detection, offense analysis, and SOC triage documentation.
+
+---
+
+## Current Focus
+
+I’m currently focused on improving my practical skills in:
+
+- detection engineering
+- SIEM analysis
+- alert triage
+- incident investigation
+- Blue Team workflows
+
+---
+
+## Tools & Technologies
+
+- Wazuh
+- IBM QRadar
+- Sysmon
+- Suricata
+- Ubuntu
+- Windows Server
+- Kali Linux
+- VMware
+
+---
+
+## Goal
+
+My goal is to build practical, investigation-focused security projects that reflect the type of work performed in a **SOC / Blue Team environment**.
