@@ -1,51 +1,130 @@
 # Hi, I'm Niraj Bathani
 
-Aspiring **SOC / Blue Team / Security Analyst** building hands-on cybersecurity projects focused on:
+Aspiring **SOC Analyst | SIEM Engineer | Detection Engineering Learner**
 
-- **SIEM monitoring**
-- **Detection engineering**
-- **Incident investigation**
-- **Windows and Linux telemetry analysis**
-- **SOC-style alert triage**
-- **MITRE ATT&CK-aligned detection workflows**
+I build hands-on cybersecurity labs focused on **log analysis, detection engineering, and incident investigation** using tools like Splunk, Wazuh, and QRadar across Windows and Linux environments.
 
 ---
 
-## Featured Security Projects
+## About Me
 
-### [Wazuh SOC Detection Lab](https://github.com/bathani0909/wazuh-soc-detection-lab)
-SOC Detection Engineering & Incident Investigation with Wazuh across Linux and Windows endpoints.
+I am a cybersecurity learner focused on developing practical blue-team skills by building and documenting real-world style SOC lab environments.
 
-### [QRadar Offense Analysis](https://github.com/bathani0909/qradar-offense-analysis)
-QRadar-based SIEM offense investigation project focused on brute-force detection, offense analysis, and SOC triage documentation.
+My work centers around:
+
+- SIEM log ingestion and analysis
+- Detection engineering using real telemetry
+- Windows and Linux security event analysis
+- Incident investigation and case documentation
+- MITRE ATT&CK-aligned detection workflows
+
+I focus on learning by **building, testing, and validating detections using real lab-generated events**, rather than theory alone.
 
 ---
 
-## Current Focus
+## Featured Projects
 
-I’m currently focused on improving my practical skills in:
+### Splunk SIEM SOC Lab
+- Built a multi-host SIEM lab using Splunk Enterprise
+- Ingested Windows and Linux logs into Splunk
+- Developed detections for:
+  - PowerShell abuse
+  - Authentication failures
+  - Persistence techniques
+  - LOLBins (certutil)
+- Investigated simulated attack activity using SPL and event evidence
 
-- detection engineering
-- SIEM analysis
-- alert triage
-- incident investigation
-- Blue Team workflows
+🔗 https://github.com/bathani0909/splunk-siem-soc-lab
+
+---
+
+### Wazuh SOC Detection Lab
+- Implemented Wazuh SIEM with Linux and Windows agents
+- Generated alerts using rule-based detections
+- Simulated attack scenarios and validated alert generation
+- Documented detection workflows and investigation steps
+
+🔗 https://github.com/bathani0909/wazuh-soc-detection-lab
+
+---
+
+### QRadar Offense Analysis
+- Investigated offenses in IBM QRadar
+- Analyzed brute-force authentication scenarios
+- Practiced SOC-style alert triage and event correlation
+- Documented investigation process and findings
+
+🔗 https://github.com/bathani0909/qradar-offense-analysis
+
+---
+
+## Skills & Areas of Focus
+
+### SIEM & Monitoring
+- Splunk Enterprise
+- Wazuh
+- IBM QRadar
+
+### Detection Engineering
+- Writing SPL-based detections
+- Log-based threat detection
+- MITRE ATT&CK mapping
+
+### Operating Systems & Logs
+- Windows Event Logs (Security, PowerShell)
+- Linux Authentication Logs (`auth.log`)
+- Sysmon (basic usage)
+
+### Security Concepts
+- Authentication abuse detection
+- PowerShell threat detection
+- Persistence techniques (tasks, services, accounts)
+- Reconnaissance activity detection
+- SOC alert triage workflows
 
 ---
 
 ## Tools & Technologies
 
+- Splunk
 - Wazuh
 - IBM QRadar
 - Sysmon
-- Suricata
-- Ubuntu
+- Suricata (basic)
 - Windows Server
+- Ubuntu Linux
 - Kali Linux
 - VMware
 
 ---
 
+## Current Focus
+
+I am currently focused on improving:
+
+- Detection engineering skills
+- SIEM query writing (Splunk SPL)
+- Investigation workflows
+- Alert triage techniques
+- Building structured SOC-style case documentation
+
+---
+
 ## Goal
 
-My goal is to build practical, investigation-focused security projects that reflect the type of work performed in a **SOC / Blue Team environment**.
+My goal is to become a **SOC Analyst / SIEM Engineer / Detection Engineer** by building practical, investigation-driven projects that reflect real-world security operations.
+
+---
+
+## What I’m Working On Next
+
+- Expanding detection coverage with new attack scenarios
+- Building SOC investigation playbooks
+- Improving alert correlation and triage workflows
+- Exploring Sysmon-based detections
+
+---
+
+## Contact
+
+- GitHub: https://github.com/bathani0909
