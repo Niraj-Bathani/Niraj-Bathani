@@ -34,7 +34,7 @@ I focus on learning by **building, testing, and validating detections using real
   - LOLBins (certutil)
 - Investigated simulated attack activity using SPL and event evidence
 
-🔗 https://github.com/bathani0909/splunk-siem-soc-lab
+🔗 https://github.com/Niraj-Bathani/splunk-siem-soc-lab
 
 ---
 
@@ -44,7 +44,7 @@ I focus on learning by **building, testing, and validating detections using real
 - Simulated attack scenarios and validated alert generation
 - Documented detection workflows and investigation steps
 
-🔗 https://github.com/bathani0909/wazuh-soc-detection-lab
+🔗 https://github.com/Niraj-Bathani/wazuh-soc-detection-lab
 
 ---
 
@@ -54,7 +54,7 @@ I focus on learning by **building, testing, and validating detections using real
 - Practiced SOC-style alert triage and event correlation
 - Documented investigation process and findings
 
-🔗 https://github.com/bathani0909/qradar-offense-analysis
+🔗 https://github.com/Niraj-Bathani/qradar-offense-analysis
 
 ---
 
