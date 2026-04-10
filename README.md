@@ -127,4 +127,4 @@ My goal is to become a **SOC Analyst / SIEM Engineer / Detection Engineer** by b
 
 ## Contact
 
-- GitHub: https://github.com/bathani0909
+- GitHub: https://github.com/Niraj-Bathani
