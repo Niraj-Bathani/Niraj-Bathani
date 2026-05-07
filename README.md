@@ -58,6 +58,23 @@ I focus on learning by **building, testing, and validating detections using real
 
 ---
 
+### Enterprise System Administration Operations Lab
+- Built a production-style Windows Server 2022 administration lab
+- Configured Active Directory, DNS, DHCP, Group Policy, and SMB file services
+- Implemented NTFS/share permission models with security-group-based access control
+- Developed enterprise-style incident response documentation with:
+  - Diagnosis
+  - Root cause analysis
+  - Remediation
+  - Prevention guidance
+- Created PowerShell operational workflows and administrative validation procedures
+- Performed client-side troubleshooting and standard-user validation across Windows environments
+- Documented enterprise operational workflows using real lab-generated evidence and screenshots
+
+🔗 https://github.com/Niraj-Bathani/enterprise-system-admin-ops
+
+---
+
 ## Skills & Areas of Focus
 
 ### SIEM & Monitoring
